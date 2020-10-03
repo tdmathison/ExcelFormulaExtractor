@@ -32,3 +32,6 @@ Final: EsNDtISBBnaCXk=ShellExecuteA
 ```
 
 This ultimately can produce a number of strings and hints as to what the malware is attempting to do to include Win32 calls it makes, directories it creates, executable files it may attempt to write, C&C paths, etc.
+
+Full commentary can be found at:<br /> 
+https://www.travismathison.com/posts/Digging-into-obfuscated-excel-formula-code/
